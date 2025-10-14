@@ -1,0 +1,21 @@
+/*Reset básico*/
+*{
+    margin: 0;
+    padding: 0;
+    font-family: Arial, Helvetica, sans-serif;
+    box-sizing: border-box;
+
+}
+body {
+    background-color: rgba(255, 255, 255, 0.993);
+    color:darkblue;
+    line-height: 1.5;
+}
+
+.curriculo{
+    width: 800px;
+    background-color: white;
+    margin: 40px auto;
+    border-radius: 10px;
+    box-shadow: 0px 0px 15px rgba(red, green, blue, alpha);
+}
